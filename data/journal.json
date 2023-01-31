@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "name": "Rich",
+        "country": "America",
+        "books": 50
+    },
+    {
+        "ID": 2,
+        "name": "MIC",
+        "country": "Rome",
+        "books": 520
+    },
+    {
+        "ID": 3,
+        "name": "RECHY",
+        "country": "Norway",
+        "books": 60
+    },
+    {
+        "ID": 4,
+        "name": "LAMBO",
+        "country": "Paris",
+        "books": 250
+    }
+]
