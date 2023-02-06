@@ -1,6 +1,6 @@
 const Product = require("../models/productModel");
 
-async function getProducts(res, req) {
+async function getProducts(req,res) {
   try {
     const products = await Product.first()
 
